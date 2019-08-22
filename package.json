@@ -1,0 +1,14 @@
+{
+  "name": "aws-iot-sim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Davidsksilva/aws-iot-sim.git",
+  "author": "David <davidsimonkastle@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.1"
+  }
+}
