@@ -1,0 +1,3 @@
+https://midair.ulg.ac.be/MidAir/VO_test/foggy/sensor_records.zip?id=6e4a04b747e0cf6ae4179e163b93ce2f06d62e6240562b13
+https://midair.ulg.ac.be/MidAir/VO_test/sunny/sensor_records.zip?id=6e4a04b747e0cf6ae4179e163b93ce2f06d62e6240562b13
+https://midair.ulg.ac.be/MidAir/VO_test/sunset/sensor_records.zip?id=6e4a04b747e0cf6ae4179e163b93ce2f06d62e6240562b13
